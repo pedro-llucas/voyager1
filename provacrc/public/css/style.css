@@ -1,0 +1,17 @@
+#titulos{
+    text-align: center;
+}
+
+#table-index{
+    text-align: center;
+    margin: auto;
+}
+
+#btn-acoes{
+    display: flex;
+    justify-content: center;
+}
+
+#btn-acoes form{
+    margin-left: 4px;
+}
